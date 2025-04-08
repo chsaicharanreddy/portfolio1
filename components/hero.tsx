@@ -107,7 +107,7 @@ export function Hero() {
               >
                 Hi, I'm{" "}
                 <span className="bg-gradient-to-r from-primary to-orange-500 bg-clip-text text-transparent">
-                  Your Name
+                  Sai Charan Reddy Chevula
                 </span>
               </motion.h1>
               <motion.div
