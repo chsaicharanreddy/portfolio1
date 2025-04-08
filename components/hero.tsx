@@ -151,12 +151,12 @@ export function Hero() {
               animate={{ opacity: 1 }}
               transition={{ duration: 0.5, delay: 0.8 }}
             >
-              <Link href="https://github.com" target="_blank" rel="noopener noreferrer">
+              <Link href="https://github.com/chsaicharanreddy?tab=repositories" target="_blank" rel="noopener noreferrer">
                 <Button variant="ghost" size="icon" aria-label="GitHub">
                   <Github className="h-5 w-5" />
                 </Button>
               </Link>
-              <Link href="https://linkedin.com" target="_blank" rel="noopener noreferrer">
+              <Link href="https://www.linkedin.com/in/chevula-saicharanreddy-83251b238/" target="_blank" rel="noopener noreferrer">
                 <Button variant="ghost" size="icon" aria-label="LinkedIn">
                   <Linkedin className="h-5 w-5" />
                 </Button>
