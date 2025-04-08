@@ -123,6 +123,7 @@ export function About() {
                     <Download className="mr-2 h-4 w-4" />
                     <a href="/Saicharanreddy_resume.pdf" download>
                     Download Resume
+                    </a>
                   </span>
                   <span className="absolute inset-0 bg-gradient-to-r from-orange-600 to-primary opacity-0 group-hover:opacity-100 transition-opacity duration-300 rounded-md"></span>
                 </Button>
