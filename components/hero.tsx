@@ -118,7 +118,7 @@ export function Hero() {
               >
                 <Typewriter
                   options={{
-                    strings: ["Frontend Developer", "UI/UX Designer", "Full Stack Engineer", "Problem Solver"],
+                    strings: ["Frontend Developer", "Data Analyst", "UI/UX Designer", "Full Stack Engineer"],
                     autoStart: true,
                     loop: true,
                   }}
@@ -180,7 +180,7 @@ export function Hero() {
               transition={{ type: "spring", stiffness: 300 }}
             >
               <img
-                src="/placeholder.svg?height=350&width=350"
+                src="sai_hero.jpg?height=350&width=350"
                 alt="Profile"
                 className="object-cover"
                 width={350}
