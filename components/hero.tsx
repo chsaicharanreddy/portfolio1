@@ -161,11 +161,6 @@ export function Hero() {
                   <Linkedin className="h-5 w-5" />
                 </Button>
               </Link>
-              <Link href="https://twitter.com" target="_blank" rel="noopener noreferrer">
-                <Button variant="ghost" size="icon" aria-label="Twitter">
-                  <Twitter className="h-5 w-5" />
-                </Button>
-              </Link>
             </motion.div>
           </motion.div>
           <motion.div
