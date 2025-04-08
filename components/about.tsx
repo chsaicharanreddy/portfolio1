@@ -9,9 +9,9 @@ export function About() {
   const [isFlipped, setIsFlipped] = useState<number | null>(null)
 
   const skills = [
-    "Python"
-    "Java"
-    "SQL"
+    "Python",
+    "Java",
+    "SQL",
     "JavaScript",
     "TypeScript",
     "React",
